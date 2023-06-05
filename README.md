@@ -1,5 +1,4 @@
-# Personal Portfolio ⭐ 
-https://nurmira16.github.io/Portfolio-website/
+# Personal Portfolio ⭐
 
 <h3>Website Preview</h3>
 <h4> Home Page</h4>
